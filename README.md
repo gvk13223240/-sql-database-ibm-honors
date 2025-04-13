@@ -1,13 +1,19 @@
-# -sql-database-ibm-honors
 # Databases and SQL for Data Science (With Honors) – IBM | Coursera
 
-This repository contains my hands-on practice for the IBM course on Coursera.  
-Topics covered include:
+This repository contains my work from the **IBM "Databases and SQL for Data Science"** course on Coursera.  
+Topics covered in the course include:
 
-- SQL Basics (DDL, DML, SELECT, etc.)
-- IBM Db2 queries
-- Subqueries, Grouping, Sorting
-- SQL + Python integration using SQL Magic
-- [Honors Content] Stored Procedures, JOIN overview, ACID Transactions
+- SQL Basics (DML, DDL, SELECT, TRUNCATE, UPDATE)
+- Introduction to **IBM Db2**
+- Integrating **SQL** with **Python** via SQL Magic
+- **Honors Content**: Stored Procedures, ACID Transactions, JOIN Overview
 
-🔗 Course: https://coursera.org/verify/your-certificate-id
+## Notebook
+This notebook contains my solution to the assignment provided in the course. It demonstrates the application of SQL queries, including `SELECT`, `DML`, `DDL` statements, and an introduction to **IBM Db2**.
+
+## Certificate:
+[Link to your Coursera certificate](insert link here)
+
+## To Run:
+1. Install required libraries (`pandas`, `sqlalchemy`, etc.)
+2. Use **Jupyter Notebook** or **JupyterLab** to run the `.ipynb` file.
