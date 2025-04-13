@@ -12,7 +12,7 @@ Topics covered in the course include:
 This notebook contains my solution to the assignment provided in the course. It demonstrates the application of SQL queries, including `SELECT`, `DML`, `DDL` statements, and an introduction to **IBM Db2**.
 
 ## Certificate:
-[Link to your Coursera certificate](insert link here)
+https://coursera.org/verify/ZJJC8SE56NA8
 
 ## To Run:
 1. Install required libraries (`pandas`, `sqlalchemy`, etc.)
